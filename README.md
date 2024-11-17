@@ -14,3 +14,8 @@
 * `matplotlib`
 * `tensorflow` с поддержкой `keras`
 * `sklearn`
+
+### Установка:
+Для установки TensorFlow с поддержкой Keras выполните следующую команду:
+```bash
+pip install tf_keras
