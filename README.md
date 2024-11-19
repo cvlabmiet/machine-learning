@@ -18,4 +18,4 @@
 ### Установка:
 Для установки TensorFlow с поддержкой Keras выполните следующую команду:
 ```bash
-pip install tf_keras
+pip install tf-keras==2.15.1
